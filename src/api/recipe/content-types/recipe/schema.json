@@ -8,7 +8,7 @@
     "description": ""
   },
   "options": {
-    "draftAndPublish": true
+    "draftAndPublish": false
   },
   "pluginOptions": {},
   "attributes": {
@@ -21,7 +21,7 @@
     "order": {
       "type": "text"
     },
-    "Ingredients": {
+    "ingredients": {
       "type": "string"
     },
     "uploader": {
