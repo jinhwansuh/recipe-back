@@ -21,10 +21,16 @@
     "order": {
       "type": "text"
     },
+    "uploader": {
+      "type": "string"
+    },
+    "measure": {
+      "type": "json"
+    },
     "ingredients": {
       "type": "string"
     },
-    "uploader": {
+    "tag": {
       "type": "string"
     }
   }
